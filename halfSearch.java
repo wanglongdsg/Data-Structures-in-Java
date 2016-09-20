@@ -1,5 +1,6 @@
 public static int halfSeach(int[] arr,int key)
 	{
+		//定义三个变量，分别代表着第一个元素，中间元素和最后一个元素
 		int min,mid,max;
 		min = 0;
 		max = arr.length-1;
