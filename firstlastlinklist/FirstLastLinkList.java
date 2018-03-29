@@ -1,5 +1,5 @@
 /**
- * auther ： roywnag
+ * auther ： 王龙
  */
 public class FirstLastLinkList {
 	// 头结点
