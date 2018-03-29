@@ -1,6 +1,12 @@
 /**
  * idea的github进行操作
+ *
  * 我是在github上面直接进行的操作
+ * 作者：王龙
+ * 改了很多东西，
+ * 改了很多的东西
+ * 改了改了
+ * 改了很多的东西
  */
 public class FirstLastLinkList {
 	// 头结点
