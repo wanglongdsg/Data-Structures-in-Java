@@ -1,7 +1,10 @@
+/**
+ * idea的github进行操作
+ */
 public class FirstLastLinkList {
-	//头结点
+	// 头结点
 	private Node first;
-	//尾结点
+	// 尾结点
 	private Node last;
 	
 	public FirstLastLinkList() {
