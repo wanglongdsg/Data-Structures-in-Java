@@ -2,6 +2,8 @@
  * idea的github进行操作
  *
  * 我是在github上面直接进行的操作
+ * 作者：王龙
+ *  我是测试分支创建的。
  */
 public class FirstLastLinkList {
 	// 头结点
