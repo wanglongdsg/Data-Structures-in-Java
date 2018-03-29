@@ -1,4 +1,6 @@
-
+/**
+ * auther ： roywnag
+ */
 public class FirstLastLinkList {
 	// 头结点
 	private Node first;
