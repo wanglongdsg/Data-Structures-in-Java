@@ -2,6 +2,8 @@
  * auther ： 王龙
  * 通过github 上面进操作
  * Idea进行了操作
+ *
+ * bug修复
  */
 public class FirstLastLinkList {
 	// 头结点
