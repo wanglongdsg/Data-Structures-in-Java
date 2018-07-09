@@ -1,5 +1,8 @@
 /*
  * 双向链表
+ *
+ * 2018/07/09
+ *
  */
 public class DoubleLinkList {
 	//头结点
